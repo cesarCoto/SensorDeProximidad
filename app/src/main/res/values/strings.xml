@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorProx</string>
+    <string name="text_instruccion">Coloca tu mano sobre el sensor de proxmimdad</string>
+    <string name="activar">Activar</string>
+</resources>
